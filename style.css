@@ -52,6 +52,9 @@ img:hover {
 i {
     font-size: 1.5rem;
 }
+.fa-solid.fa-moon{
+    font-size: 1rem;
+}
 
 p{
     color:black!important;
@@ -191,9 +194,11 @@ padding-top:4rem;
 
 /* blog */
 #blog{
-background-color: #b5b8ff;
+background-color: #dfe3ea;
 }
-
+#contact{
+    background-color: #efefef
+}
 
 /* Footer */
 footer{
